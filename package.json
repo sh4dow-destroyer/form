@@ -1,0 +1,11 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "sistema de login com dados locais",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "dg$",
+  "license": "ISC"
+}
